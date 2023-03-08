@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/fusion_test.unity
+    guid: 93a28ceea94344044a444634b2205b48
+  - enabled: 0
+    path: Assets/Scenes/tokuen_ver.unity
+    guid: 9b4f7fdc88c7a834fa4457db688c1f2f
+  - enabled: 0
+    path: Assets/Scenes/image_viewer.unity
+    guid: ad365af07462774449d5efabaa48fa9e
+  - enabled: 0
+    path: Assets/Scenes/plane_touch.unity
+    guid: e1e3849aa471b5d468d4e6ffde0daa72
+  - enabled: 0
+    path: Assets/Scenes/plane_touch_cube.unity
+    guid: f0906a67be4902a47ae2ee75a2811fab
+  - enabled: 0
+    path: Assets/Scenes/fix_UI.unity
+    guid: 12ead72dd4751b7418123de8aac41290
+  - enabled: 0
+    path: Assets/Scenes/gazecheck.unity
+    guid: 9fb42200e8666774db7cd3b5c99c2bfd
+  - enabled: 0
+    path: Assets/Scenes/eye_control.unity
+    guid: c16dd67b4bc1ac646b729cc6ccaa1e99
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/DateAsset/MixedReality-SceneUnderstanding-Samples-main/MixedReality-SceneUnderstanding-Samples-main/Assets/SceneUnderstanding/Examples/Understanding/Scenes/Understanding-Simple.unity
+    guid: bc8988c6a8418fd4182034ccc312b3d5
+  - enabled: 0
+    path: Assets/Scenes/yolo_camera.unity
+    guid: ad758830cb8bdfd4ca2515fc2159c25f
+  - enabled: 1
+    path: Assets/Scenes/move_character.unity
+    guid: 4dbc1bc956e7b4e47a61c0fe842c9b41
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: c7403a1afe54bd84f8f0918a673f134a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a3632333c0f7ce94a81901d6d95ba90e,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8b9bdbfdc8eefd14789dae964c1c74ce,
+      type: 2}
