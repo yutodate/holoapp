@@ -2,9 +2,9 @@
 
 環境
 
-*Unity 2020.3.37f1
+* Unity 2020.3.37f1
 
-*Mixed Reality Toolkit Version 2.7.3
+* Mixed Reality Toolkit Version 2.7.3
 
 # 説明
 
@@ -18,7 +18,7 @@ https://youtu.be/NNTFITJgNOo
 
 holoapp/Assets/DateAsset/Script
 
-*chase_finger.cs
+* chase_finger.cs
 
 指先に向かって指定したオブジェクトが追いかけます．
 
@@ -28,7 +28,7 @@ chase_flagにチェックをつけると追いかけます．
 
 また，chase_flagはSet_chase_flagまたはSet_chase_flag_falseでオンオフが切り替えられます．
 
-*chase_obj.cs
+* chase_obj.cs
 
 任意のオブジェクトを指定したオブジェクトが追いかけます．
 
@@ -44,9 +44,9 @@ chase_flagにチェックをつけると追いかけます．
 
 holoapp/Assets/models/
 
-*apple.fbx
+* apple.fbx
 
-*obake.fbx
+* obake.fbx
 
 これらのモデルはナツロジさんに作って頂きました．
 
