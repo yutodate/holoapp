@@ -44,13 +44,13 @@ public class chase_finger : MonoBehaviour
 
         }
     }
-    public void set_chase_flag()
+    public void Set_chase_flag()
     {
         
         chase_flag = !chase_flag;
         
     }
-    public void set_chase_flag_false()
+    public void Set_chase_flag_false()
     {
 
         chase_flag = false;
