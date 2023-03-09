@@ -14,7 +14,7 @@
 
 https://youtu.be/NNTFITJgNOo
 
-#各種コード使い方
+# 各種コード使い方 
 
 holoapp/Assets/DateAsset/Script
 
@@ -40,7 +40,7 @@ chase_flagにチェックをつけると追いかけます．
 
 また，chase_flagはSet_chase_flagまたはSet_chase_flag_falseでオンオフが切り替えられます．
 
-#モデル
+# モデル
 
 holoapp/Assets/models/
 
